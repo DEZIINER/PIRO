@@ -18,7 +18,7 @@ class script(object):
 
 𝖣𝗈𝗇𝗍 𝖲𝗉𝖺𝗆 𝖬𝖾...🤒
 
-<spoiler><b><u>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href='https://t.me/xayoonara'>xᴀʏᴏɴᴀʀᴀ</a></u></b></spoiler>"""
+<spoiler><b><u>||🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ -|| <a href='https://t.me/xayoonara'>||xᴀʏᴏɴᴀʀᴀ||</a></u></b></spoiler>"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/xayoonara'>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</a>
