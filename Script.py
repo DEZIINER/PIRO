@@ -31,7 +31,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 <spoiler>𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑬𝒗𝒂𝑴𝒂𝒓𝒊𝒂 𝑫𝒆𝒗𝒔 & 𝑪𝒍𝒐𝒏𝒆𝒓𝒔 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒄𝒐𝒅𝒆𝒔.</spoiler>
-<spoiler><b><u>𝐃𝐄𝐕 🧑‍💻</u></b></spoiler>
+<spoiler>𝐃𝐄𝐕 🧑‍💻</spoiler>
 
 - <a href=https://t.me/xayoonara><spoiler><b><u>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</u></b></spoiler></a>
 
