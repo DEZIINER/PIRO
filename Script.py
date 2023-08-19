@@ -1,24 +1,24 @@
 class script(object):
-    START_TXT = """ʜᴇʏ 😎. {} ɪ ᴀᴍ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ.
+    START_TXT = """<b><u>ʜᴇʏ 😎. {} ɪ ᴀᴍ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇꜱ & ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ.</u></b>
 
-<spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href='https://t.me/xayoonara'>xᴀʏᴏɴᴀʀᴀ</a> </spoiler>"""
+<spoiler><b><u>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href='https://t.me/xayoonara'>xᴀʏᴏɴᴀʀᴀ</a></u></b></spoiler>"""
 
     HELP_TXT = """🙋🏻‍♂️   <b><u>𝖧𝖾𝗅𝗅𝗈𝗈𝗈</u></b>  {} 🤓
 
 ○ 𝑨𝑽𝑨𝑰𝑳𝑨𝑩𝑳𝑬 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺
      
- /alive - `Check I'm Alive..`
- /info - `User info`
- /ping - `To get your ping`
- /id - `User id`
- /stats - `Db status`
- /broadcast - `Broadcast (𝖮𝗐𝗇𝖾𝗋 𝖮𝗇𝗅𝗒)`
+ /alive - Check I'm Alive..
+ /info - User info
+ /ping - To get your ping
+ /id - User id
+ /stats - Db status
+ /broadcast - Broadcast (𝖮𝗐𝗇𝖾𝗋 𝖮𝗇𝗅𝗒)
 
 ○ <u>𝖭𝗈𝗍𝗂𝖼𝖾</u> 📙:-
 
 𝖣𝗈𝗇𝗍 𝖲𝗉𝖺𝗆 𝖬𝖾...🤒
 
-😎 𝑷𝑶𝑾𝑬𝑹𝑬𝑫 𝑩𝒀 @MYFLiiX_2"""
+<spoiler><b><u>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href='https://t.me/xayoonara'>xᴀʏᴏɴᴀʀᴀ</a></u></b></spoiler>"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/xayoonara'>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</a>
@@ -30,12 +30,12 @@ class script(object):
 ○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/myfliix_2'>𝑻𝑨𝑷 𝑯𝑬𝑹𝑬</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑬𝒗𝒂𝑴𝒂𝒓𝒊𝒂 𝑫𝒆𝒗𝒔 & 𝑪𝒍𝒐𝒏𝒆𝒓𝒔 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒄𝒐𝒅𝒆𝒔.
-<b>DEV:</b>
+<spoiler>𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑬𝒗𝒂𝑴𝒂𝒓𝒊𝒂 𝑫𝒆𝒗𝒔 & 𝑪𝒍𝒐𝒏𝒆𝒓𝒔 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒄𝒐𝒅𝒆𝒔.</spoiler>
+<spoiler><b><u>𝐃𝐄𝐕 🧑‍💻</u></b></spoiler>
 
-- <a href=https://t.me/xayoonara>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</a>
+- <a href=https://t.me/xayoonara><spoiler><b><u>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</u></b></spoiler></a>
 
-- Source - <a href=https://t.me/xayoonara>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</a>""" #please don't change repo link give credit :)
+- Source - <a href=https://t.me/xayoonara><spoiler><b><u>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</u></b></spoiler></a>""" #please don't change repo link give credit :)
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -121,7 +121,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝖳𝗈𝗍𝖺𝗅 𝖢𝗁𝖺𝗍𝗌: <code>{}</code>
 𝖴𝗌𝖾𝖽 𝖲𝗍𝗈𝗋𝖺𝗀𝖾: <code>{}</code>
 
-<b>😎 𝑷𝑶𝑾𝑬𝑹𝑬𝑫 𝑩𝒀 @MYFLiiX_2</b>"""
+<spoiler><b><u>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ - <a href='https://t.me/xayoonara'>xᴀʏᴏɴᴀʀᴀ</a></u></b></spoiler>"""
 
     LOG_TEXT_G = """#NewGroup
 𝖦𝗋𝗈𝗎𝗉 = {}(<code>{}</code>)
