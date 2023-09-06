@@ -18,24 +18,24 @@ class script(object):
 
 𝖣𝗈𝗇𝗍 𝖲𝗉𝖺𝗆 𝖬𝖾...🤒
 
-<spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ -<a href='https://t.me/xayoonara'>xᴀʏᴏɴᴀʀᴀ</a></spoiler>"""
+<spoiler>🔋 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ -<a href='https://t.me/My_Name_is_developer'>xᴀʏᴏɴᴀʀᴀ</a></spoiler>"""
 
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/xayoonara'>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/My_Name_is_developer'>ABHISHEK</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
 ○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
 ○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : v1.0.1 [BeTa]
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/myfliix_2'>𝑻𝑨𝑷 𝑯𝑬𝑹𝑬</a>"""
+○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/AlAS_NOW'>𝑻𝑨𝑷 𝑯𝑬𝑹𝑬</a>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-<spoiler>𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 𝑬𝒗𝒂𝑴𝒂𝒓𝒊𝒂 𝑫𝒆𝒗𝒔 & 𝑪𝒍𝒐𝒏𝒆𝒓𝒔 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒄𝒐𝒅𝒆𝒔.</spoiler>
+<spoiler>𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑻𝒉𝒂𝒏𝒌𝒔 𝒕𝒐 ALAS 𝑫𝒆𝒗𝒔 & 𝑪𝒍𝒐𝒏𝒆𝒓𝒔 𝒇𝒐𝒓 𝒕𝒉𝒆 𝒄𝒐𝒅𝒆𝒔.</spoiler>
 <spoiler>𝐃𝐄𝐕 🧑‍💻</spoiler>
 
-- <a href=https://t.me/xayoonara><spoiler><b><u>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</u></b></spoiler></a>
+- <a href=https://t.me/My_Name_is_developer><spoiler><b><u>ABHISHEK</u></b></spoiler></a>
 
-- Source - <a href=https://t.me/xayoonara><spoiler><b><u>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</u></b></spoiler></a>""" #please don't change repo link give credit :)
+- Source - <a href=https://t.me/My_Name_is_developer><spoiler><b><u>ABHISHEK</u></b></spoiler></a>""" #please don't change repo link give credit :)
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -58,7 +58,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/myfliix_2)</code>
+<code>[Button Text](buttonurl:https://t.me/ALAS_NOW)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -147,11 +147,11 @@ Request Again"""
 𝖨 𝖼𝗈𝗎𝗅𝖽𝗇'𝗍 𝖿𝗂𝗇𝖽 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝗋𝖾𝗅𝖺𝗍𝖾𝖽 𝗍𝗈 𝗍𝗁𝖺𝗍
 𝖣𝗂𝖽 𝗒𝗈𝗎 𝗆𝖾𝖺𝗇 𝖺𝗇𝗒 𝗈𝗇𝖾 𝗈𝖿 𝗍𝗁𝖾𝗌𝖾?</i></b>"""
 
-    I_CUDNT = """❌ <b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜᴀᴛ</b>\n\n‼ <b><i>ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ 📝 @myfliix_2</i></b>"""
+    I_CUDNT = """❌ <b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜᴀᴛ</b>\n\n‼ <b><i>ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ 📝 @ALAS_NOW</i></b>"""
 
-    I_CUD_NT = """❌ <b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜᴀᴛ</b>\n\n‼ <b><i>ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ 📝 @myfliix_2</i></b>"""
+    I_CUD_NT = """❌ <b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜᴀᴛ</b>\n\n‼ <b><i>ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ 📝 @ALAS_NOW</i></b>"""
 
-    MVE_NT_FND = """❌ <b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜᴀᴛ</b>\n\n‼ <b><i>ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ 📝 @myfliix_2</i></b>"""
+    MVE_NT_FND = """❌ <b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏᴛʜɪɴɢ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ ᴛʜᴀᴛ</b>\n\n‼ <b><i>ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴꜱ 📝 @ALAS_NOW</i></b>"""
 
     TOP_ALRT_MSG = """ᴄʜᴇᴄᴋɪɴɢ ꜰᴏʀ ᴅᴀᴛᴀʙᴀꜱᴇ ✔️"""
 
@@ -174,9 +174,9 @@ Request Again"""
 ‼️𝗗𝗼𝗻𝘁 𝗮𝗱𝗱 𝘄𝗼𝗿𝗱𝘀 & 𝘀𝘆𝗺𝗯𝗼𝗹𝘀 𝗹𝗶𝗸𝗲 , . -  send link movie series 𝗲𝘁𝗰‼️"""
 
     OWNER_INFO = """
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/xayoonara'>𝑿𝑨𝒀𝑶𝑵𝑨𝑹𝑨</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/My_Name_is_developer'>ABHISHEK</a>
 
-○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/myfliix_2'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
+○ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href='https://t.me/ALAS_NOW'>𝖳𝖺𝗉 𝖧𝖾𝗋𝖾</a>
 """
 
     NORSLTS = """
@@ -189,9 +189,9 @@ Name <b>: {}</b>
 Message <b>: {}</b>"""
 
     CAPTION = """
-<b>📂<a href="https://telegram.me/MyFliix_2"><b><i>{file_name}</i></b></a>\n━━━━━━━━━━━━━━━━━━━━━━━\n
+<b>📂<a href="https://telegram.me/ALAS_NOW"><b><i>{file_name}</i></b></a>\n━━━━━━━━━━━━━━━━━━━━━━━\n
 
-❤️‍🔥 </b>Join</b> [𝙈𝙔𝙁𝙇𝙞𝙞𝙓](https://t.me/myfliix_2)  
+❤️‍🔥 </b>Join</b> [ALAS](https://t.me/ALAS_NOW)  
 """
 
     IMDB_TEMPLATE_TXT = """
@@ -199,7 +199,7 @@ Message <b>: {}</b>"""
 🔮 𝖸𝖾𝖺𝗋: {year} \n⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  
 🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} 
 
-🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [[𝙈𝙔𝙁𝙇𝙞𝙞𝙓]](t.me/myfliix)"""
+🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [[ALAS]](t.me/ALAS_NOW)"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -234,4 +234,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 <b><u>||𝑩𝑶𝑻 𝑹𝑬𝑺𝑻𝑨𝑹𝑻𝑬𝑫 😈||</u></b>"""
 
     LOGO = """
-PIRO BOTS"""
+ALAS BOTS"""
